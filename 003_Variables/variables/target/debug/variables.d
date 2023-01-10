@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\003_Variables\variables\target\debug\variables.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\003_Variables\variables\src\main.rs
