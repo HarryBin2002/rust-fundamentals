@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\006_Loop\looprust\target\debug\looprust.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\006_Loop\looprust\src\main.rs
