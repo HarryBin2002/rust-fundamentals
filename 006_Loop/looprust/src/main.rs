@@ -32,8 +32,18 @@ fn main() {
         y += 1;
 
         if y == 10 { // conditions
-            break;
+            break; // Break statement
         }
+    }
+
+    // continue statement
+    for i in 1..10 {
+
+        if i % 2 == 0 {
+            continue;
+        }
+        
+        println!("i = {}", i);
     }
 
 }
