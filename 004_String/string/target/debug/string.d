@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\004_String\string\target\debug\string.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\004_String\string\src\main.rs
