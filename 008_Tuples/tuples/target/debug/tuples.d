@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\008_Tuples\tuples\target\debug\tuples.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\008_Tuples\tuples\src\main.rs
