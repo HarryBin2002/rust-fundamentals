@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\009_Array\array\target\debug\array.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\009_Array\array\src\main.rs
