@@ -1,0 +1,1 @@
+D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\016_Collections\collections\target\debug\collections.exe: D:\Information\ Technology\Blockchain\ Coding\Rust\Rust-Fundamentals\016_Collections\collections\src\main.rs
